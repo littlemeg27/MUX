@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA0239C818AD6AE3008288FE /* best-buy-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = BA0239C718AD6AE3008288FE /* best-buy-logo.png */; };
+		BA0239CA18AD6AEC008288FE /* BBYM-Logo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA0239C918AD6AEC008288FE /* BBYM-Logo1.jpg */; };
 		BABCE40B18AC3714005514D8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BABCE40A18AC3714005514D8 /* Foundation.framework */; };
 		BABCE40D18AC3714005514D8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BABCE40C18AC3714005514D8 /* CoreGraphics.framework */; };
 		BABCE40F18AC3714005514D8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BABCE40E18AC3714005514D8 /* UIKit.framework */; };
@@ -37,8 +39,6 @@
 		BABCE47E18AC438A005514D8 /* CTListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BABCE47D18AC438A005514D8 /* CTListViewController.m */; };
 		BABCE48018AC43B5005514D8 /* CTDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = BABCE47F18AC43B5005514D8 /* CTDetailView.xib */; };
 		BABCE48318AC43C9005514D8 /* CTDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BABCE48218AC43C9005514D8 /* CTDetailViewController.m */; };
-		BABCE48518AC49C1005514D8 /* best-buy-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = BABCE48418AC49C1005514D8 /* best-buy-logo.png */; };
-		BABCE48718AC49CF005514D8 /* BBYM-Logo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BABCE48618AC49CF005514D8 /* BBYM-Logo1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +52,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BA0239C718AD6AE3008288FE /* best-buy-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "best-buy-logo.png"; sourceTree = SOURCE_ROOT; };
+		BA0239C918AD6AEC008288FE /* BBYM-Logo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "BBYM-Logo1.jpg"; sourceTree = SOURCE_ROOT; };
 		BABCE40718AC3714005514D8 /* BestBuyProtoType.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BestBuyProtoType.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BABCE40A18AC3714005514D8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BABCE40C18AC3714005514D8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -95,8 +97,6 @@
 		BABCE47F18AC43B5005514D8 /* CTDetailView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CTDetailView.xib; sourceTree = "<group>"; };
 		BABCE48118AC43C9005514D8 /* CTDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTDetailViewController.h; sourceTree = "<group>"; };
 		BABCE48218AC43C9005514D8 /* CTDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTDetailViewController.m; sourceTree = "<group>"; };
-		BABCE48418AC49C1005514D8 /* best-buy-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "best-buy-logo.png"; path = "../../../../Desktop/best-buy-logo.png"; sourceTree = "<group>"; };
-		BABCE48618AC49CF005514D8 /* BBYM-Logo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "BBYM-Logo1.jpg"; path = "../../../../Desktop/BBYM-Logo1.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,8 +156,8 @@
 		BABCE41018AC3714005514D8 /* BestBuyProtoType */ = {
 			isa = PBXGroup;
 			children = (
-				BABCE48618AC49CF005514D8 /* BBYM-Logo1.jpg */,
-				BABCE48418AC49C1005514D8 /* best-buy-logo.png */,
+				BA0239C918AD6AEC008288FE /* BBYM-Logo1.jpg */,
+				BA0239C718AD6AE3008288FE /* best-buy-logo.png */,
 				BABCE41918AC3714005514D8 /* MUXAppDelegate.h */,
 				BABCE41A18AC3714005514D8 /* MUXAppDelegate.m */,
 				BABCE44B18AC3AE7005514D8 /* HomeViewController.h */,
@@ -302,9 +302,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BABCE48718AC49CF005514D8 /* BBYM-Logo1.jpg in Resources */,
+				BA0239CA18AD6AEC008288FE /* BBYM-Logo1.jpg in Resources */,
 				BABCE42618AC3714005514D8 /* Images.xcassets in Resources */,
-				BABCE48518AC49C1005514D8 /* best-buy-logo.png in Resources */,
+				BA0239C818AD6AE3008288FE /* best-buy-logo.png in Resources */,
 				BABCE47B18AC4341005514D8 /* CTListView.xib in Resources */,
 				BABCE46518AC412F005514D8 /* CTView.xib in Resources */,
 				BABCE47118AC426F005514D8 /* MobileListView.xib in Resources */,
