@@ -1,34 +1,32 @@
 //
-//  BestBuyProtoTypeTests.m
-//  BestBuyProtoTypeTests
+//  BestBuyPrototypeTests.m
+//  BestBuyPrototypeTests
 //
-//  Created by Brenna Pavlinchak on 2/12/14.
+//  Created by William Pavlinchak on 2/13/14.
 //  Copyright (c) 2014 Brenna Pavlinchak. All rights reserved.
 //
 
-#import <XCTest/XCTest.h>
+#import "BestBuyPrototypeTests.h"
 
-@interface BestBuyProtoTypeTests : XCTestCase
-
-@end
-
-@implementation BestBuyProtoTypeTests
+@implementation BestBuyPrototypeTests
 
 - (void)setUp
 {
     [super setUp];
-    // Put setup code here. This method is called before the invocation of each test method in the class.
+    
+    // Set-up code here.
 }
 
 - (void)tearDown
 {
-    // Put teardown code here. This method is called after the invocation of each test method in the class.
+    // Tear-down code here.
+    
     [super tearDown];
 }
 
 - (void)testExample
 {
-    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+    STFail(@"Unit tests are not implemented yet in BestBuyPrototypeTests");
 }
 
 @end

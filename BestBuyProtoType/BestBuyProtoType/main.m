@@ -1,8 +1,8 @@
 //
 //  main.m
-//  BestBuyProtoType
+//  BestBuyPrototype
 //
-//  Created by Brenna Pavlinchak on 2/12/14.
+//  Created by William Pavlinchak on 2/13/14.
 //  Copyright (c) 2014 Brenna Pavlinchak. All rights reserved.
 //
 
@@ -10,7 +10,7 @@
 
 #import "MUXAppDelegate.h"
 
-int main(int argc, char * argv[])
+int main(int argc, char *argv[])
 {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([MUXAppDelegate class]));
