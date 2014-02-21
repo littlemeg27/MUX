@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D015AFCA18AD850F00F2EA31"
-               BuildableName = "BestBuyPrototype.app"
-               BlueprintName = "BestBuyPrototype"
-               ReferencedContainer = "container:BestBuyPrototype.xcodeproj">
+               BlueprintIdentifier = "BA023A4B18ADAF68008288FE"
+               BuildableName = "BestBuyProtoType.app"
+               BlueprintName = "BestBuyProtoType"
+               ReferencedContainer = "container:BestBuyProtoType.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D015AFF318AD850F00F2EA31"
-               BuildableName = "BestBuyPrototypeTests.octest"
-               BlueprintName = "BestBuyPrototypeTests"
-               ReferencedContainer = "container:BestBuyPrototype.xcodeproj">
+               BlueprintIdentifier = "BA023A6F18ADAF68008288FE"
+               BuildableName = "BestBuyProtoTypeTests.xctest"
+               BlueprintName = "BestBuyProtoTypeTests"
+               ReferencedContainer = "container:BestBuyProtoType.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D015AFCA18AD850F00F2EA31"
-            BuildableName = "BestBuyPrototype.app"
-            BlueprintName = "BestBuyPrototype"
-            ReferencedContainer = "container:BestBuyPrototype.xcodeproj">
+            BlueprintIdentifier = "BA023A4B18ADAF68008288FE"
+            BuildableName = "BestBuyProtoType.app"
+            BlueprintName = "BestBuyProtoType"
+            ReferencedContainer = "container:BestBuyProtoType.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D015AFCA18AD850F00F2EA31"
-            BuildableName = "BestBuyPrototype.app"
-            BlueprintName = "BestBuyPrototype"
-            ReferencedContainer = "container:BestBuyPrototype.xcodeproj">
+            BlueprintIdentifier = "BA023A4B18ADAF68008288FE"
+            BuildableName = "BestBuyProtoType.app"
+            BlueprintName = "BestBuyProtoType"
+            ReferencedContainer = "container:BestBuyProtoType.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D015AFCA18AD850F00F2EA31"
-            BuildableName = "BestBuyPrototype.app"
-            BlueprintName = "BestBuyPrototype"
-            ReferencedContainer = "container:BestBuyPrototype.xcodeproj">
+            BlueprintIdentifier = "BA023A4B18ADAF68008288FE"
+            BuildableName = "BestBuyProtoType.app"
+            BlueprintName = "BestBuyProtoType"
+            ReferencedContainer = "container:BestBuyProtoType.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

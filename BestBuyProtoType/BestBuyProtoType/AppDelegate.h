@@ -1,5 +1,5 @@
 //
-//  MobileListViewController.h
+//  AppDelegate.h
 //  BestBuyProtoType
 //
 //  Created by Brenna Pavlinchak on 2/13/14.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MobileListViewController : UIViewController
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
 
 @end

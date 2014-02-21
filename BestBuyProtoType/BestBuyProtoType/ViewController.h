@@ -1,5 +1,5 @@
 //
-//  MobileListViewController.h
+//  ViewController.h
 //  BestBuyProtoType
 //
 //  Created by Brenna Pavlinchak on 2/13/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MobileListViewController : UIViewController
+@interface ViewController : UIViewController
 
 @end
